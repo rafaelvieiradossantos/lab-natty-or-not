@@ -20,23 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Encontro de carros antigos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto foi criar uma imagem em IA em que simula um encontro de carros antigos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o Leonardo AI.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para a IA criar uma imagem de um carro antigo no meio de um encontro de carros.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/b4e89af2-519c-49a7-a440-18c8b1ddf72a)
+ou
+![Default_a_photo_with_a_1962_cherryred_Chevrolet_Impala_gleamin_1](https://github.com/user-attachments/assets/1e25cade-264e-48bb-8583-e625f76cee72)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+Acho um desafio complicado de se executar por ter que ter olhar muito minuncioso para notar diferença entre imagens.
 
 ### Exemplos e Insigths
 
